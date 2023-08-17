@@ -2,4 +2,5 @@
 
 - 모던 자바스크립트 딥다이브와 구글링을 통해 이론을 공부해보기
 
-- [Variables](/Variables/Variables.md)
+[Variables](/Variables/Variables.md)
+[Expressions and statements](/Expressions and statements/Expressions and statements.md)
