@@ -100,7 +100,7 @@ firstName = 'seon-mi' // 값의 할당
 ### 초기화
 #### 정의
 - 변수가 선언된 이후 최초로 값을 할당하는 것
-- 변수는 undefined로 암묵적인 초기화가 자동 수행(var, let)
+- 변수는 undefined로 암묵적인 초기화가 자동 수행(var)
 
 ### ReferenceError(참조 에러)
 
