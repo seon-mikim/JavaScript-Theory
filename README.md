@@ -4,3 +4,4 @@
 
 - [Variables](/Variables/Variables.md)
 - [Expressions and statements](/Expressions&statements/Expressions&statements.md)
+- [Data Type](/DataType/DataType.md)
